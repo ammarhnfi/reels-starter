@@ -1,0 +1,8 @@
+node_modules/
+out/
+# hasil buatan ulang: npm run voice / npm run music
+public/voice/
+public/audio/
+# model suara (±5 GB) dan rekaman pribadi
+.tts/
+rekaman/
